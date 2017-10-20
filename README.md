@@ -13,6 +13,7 @@ Search online for Fisher's iris data set, find a copy of the data, download it a
 If it is not in CSV format, use whatever means (Excel, notepad++, visual studio code, python) to convert it to CSV and save the CSV version to your repository also.
 Open your Jupyter notebook for this problem sheet, creating a new one if needed, and load the CSV file into a numpy array.
 
+**[Iris Data Set.](https://osdn.net/projects/sfnet_irisdss/downloads/IRIS.csv/)**
 
 ## 2. Write a note about the data set
 
